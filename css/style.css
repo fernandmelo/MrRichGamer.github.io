@@ -1,0 +1,13 @@
+body {
+    height: 100%;
+    margin: 0px;
+}
+
+background {
+    background-image: url("images.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: black;
+}
